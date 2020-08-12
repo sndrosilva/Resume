@@ -1,0 +1,8 @@
+@import "../bootstrap/css/bootstrap.css";
+
+$theme-colors: (
+  "custom-color": #333333,
+  "danger": #ff4136
+);
+
+$body-color: #333333;
