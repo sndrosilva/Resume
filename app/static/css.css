@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+body {
+  font-family: 'Oswald', sans-serif !important;
+}
+
+.no-border {
+  border: 0;
+  box-shadow: none; /* You may want to include this as bootstrap applies these styles too */
+}
+
+.bg-color{
+  background-color: #415EA2 !important;
+}
+
+.name{
+  font-size:3.5rem;
+}
+
+.contact{
+  font-size: 1.5rem;
+}
+
+.text-color{
+color: #415EA2 !important;
+}
+
